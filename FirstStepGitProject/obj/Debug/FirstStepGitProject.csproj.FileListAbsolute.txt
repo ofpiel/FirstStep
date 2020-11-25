@@ -1,0 +1,7 @@
+C:\Users\Ofpiel FOX\Source\Repos\ofpiel\FirstStep\FirstStepGitProject\bin\Debug\FirstStepGitProject.exe.config
+C:\Users\Ofpiel FOX\Source\Repos\ofpiel\FirstStep\FirstStepGitProject\bin\Debug\FirstStepGitProject.exe
+C:\Users\Ofpiel FOX\Source\Repos\ofpiel\FirstStep\FirstStepGitProject\bin\Debug\FirstStepGitProject.pdb
+C:\Users\Ofpiel FOX\Source\Repos\ofpiel\FirstStep\FirstStepGitProject\obj\Debug\FirstStepGitProject.csprojAssemblyReference.cache
+C:\Users\Ofpiel FOX\Source\Repos\ofpiel\FirstStep\FirstStepGitProject\obj\Debug\FirstStepGitProject.csproj.CoreCompileInputs.cache
+C:\Users\Ofpiel FOX\Source\Repos\ofpiel\FirstStep\FirstStepGitProject\obj\Debug\FirstStepGitProject.exe
+C:\Users\Ofpiel FOX\Source\Repos\ofpiel\FirstStep\FirstStepGitProject\obj\Debug\FirstStepGitProject.pdb
